@@ -2,8 +2,7 @@
 //  MainViewController.swift
 //  Add1
 //
-//  Created by Mac on 6/5/17.
-//  Copyright © 2017 LearnAppMaking. All rights reserved.
+//  Created by Katrina on 6/5/17.
 //
 
 import UIKit
